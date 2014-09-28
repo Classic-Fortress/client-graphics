@@ -1,54 +1,50 @@
-List of things to do
+Client Graphics Pack
 ====================
 
--Create database of existing map extras
-	-24 bit textures
-	-lits
-	-locs
-	-skybox
+The goal here is to replace all textures with hd equivalents. Will try to remain close to the originals but may make changes for asthetic or visability reasons.
 
--Setup mapgroupings for texture loading
-	-mini32s
-	-well1on1
-	-1on1forts
-	-minitf2k
+- All base maps to include hd textures, lighting information and custom skybox.
+- All common models to have updated hd textures.
+- Redisigned HUD taylored for TF
+- Crossshair
+- Update console background and menu GFX
 
--Create communications binds
+Base maps
+=========
 
--Complete retuxturing of default maps
-	-poop
-	-mininoheros
-	-mininoheros2
-	-kotc
-	-genders2
-	-rs_zz1
-	-dissect
-	-2mach1
-	-canalzon
-	-z7
-
--Select appropriate skybox for default maps
-
--Create 24 bit textures for skins (R00K on quakeone.com forums)
-
--Modern HUD / crossshair
-
--24 bit weapon models and textures:
-	-Mix and match from Ruohis Paradoks Doxs Plague model / skin packs (have permission)
-	-Create new 24 bit textures for
-		-sniper rifle
-		-assault cannon
-		-rail gun
-		-gren launcher (pipe)
-
--24 bit model textures
-	-QW models recreated available online various sources
-	-TF models
-		-Sentry / Dispenser (plagues pak)
-		-Grenades (create 24 bit skins for DOX's models)
-		-Nails
-		-Rockets
-
--Update console background
-
--Update v_weapon models / skins and turn on
+1on1forts
+2fort5r
+2mach1
+2night2
+32smooth
+4f4
+amth1
+bam4
+blitzkrieg2
+canalzon
+dissect
+genders2
+h4rdcore
+kotc
+mbasesr
+mini32s
+mininoheros
+mininoheros2
+minitf2k
+poop
+r321
+rock2
+rs_zz1
+scourge2
+shoop
+spaz4
+sq1
+sunnyramps
+tf2k
+turtler
+volcanic
+well1on1
+well6
+xpress2
+xpress3
+z7
