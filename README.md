@@ -48,3 +48,10 @@ well6
 xpress2
 xpress3
 z7
+
+
+Credits
+=======
+
+- HUD icon: inspired by Quake Live, created by bps, heavily modified by zel
+- Crosshair: deurk
