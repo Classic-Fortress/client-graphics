@@ -1,0 +1,13 @@
+# exclude everything except directory foo/bar
+
+/*
+
+!.gitignore
+!README.md
+!gfx.cfg
+
+!/fortress
+/fortress/*
+
+!/fortress/crosshairs
+!/fortress/textures
