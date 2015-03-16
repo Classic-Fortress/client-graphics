@@ -9,3 +9,11 @@
 
 !/fortress/crosshairs
 !/fortress/textures
+
+!/qw
+/qw/*
+
+!/qw/gfx
+/qw/gfx/*
+
+!/qw/gfx/conback.png
