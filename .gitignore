@@ -13,7 +13,5 @@
 !/qw
 /qw/*
 
-!/qw/gfx
-/qw/gfx/*
-
-!/qw/gfx/conback.png
+!/qw/pak.lst
+!/qw/cfortress.pk3
