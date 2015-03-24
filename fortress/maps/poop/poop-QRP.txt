@@ -1,0 +1,6 @@
+metal4_2
+wiz1_4
+metal1_1
+#teleport
+metal5_1
+metal1_3

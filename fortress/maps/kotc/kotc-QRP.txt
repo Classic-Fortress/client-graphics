@@ -1,0 +1,17 @@
+wwall1_1
+window01_2
+wiz1_1
+window01_3
+window01_4
+window02_1
+wall9_8
+wizwood1_5
+afloor3_1
+wizwood1_3
+wizwood1_2
+swtch1_1
+wizwood1_4
+wall14_5
+wall14_6
+wizwood1_6
+wizwood1_8

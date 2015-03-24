@@ -1,0 +1,14 @@
+metal4_4
+met5_1
+metal1_4
+#lava1
+crate1_top
+crate1_side
+metal2_8
+metal6_3
+wizwood1_4
+#teleport
+metal1_6
+metal5_3
+light3_6
++0butn

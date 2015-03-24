@@ -1,0 +1,4 @@
+wood3_6
+metal8_8
+metal7_1
+elapsed

@@ -1,0 +1,8 @@
+rlight1_1
+red_banner1
+blight1_1
+blue_banner1
+trigger
+rtek1_17
+blue_flor
+elapsed

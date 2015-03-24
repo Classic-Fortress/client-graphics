@@ -1,0 +1,13 @@
+window2_4
+window2_3
+window2_2
+window2_1
+muscle_r
+ground1_4
+ctf03
+cliff2
+ctf02
+ctf01
+adoor10_1
+swtch1_2
+elapsed

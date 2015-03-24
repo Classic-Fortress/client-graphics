@@ -1,0 +1,11 @@
+metal2_1
+metal1_5
+emetal1_3
+sky4
+#04awater1
+metal1_3
+metal1_1
+metal1_2
+#slime0
+wizmet1_4
+wizmet1_1

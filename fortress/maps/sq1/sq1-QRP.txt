@@ -1,0 +1,5 @@
+city2_7
+sky1
+wgrass1_1
+afloor1_3
++0butn

@@ -1,0 +1,15 @@
+jf_yellow1
+skip
+sbrick2c
+sbolt64b
+orangestuff8
+ctf08
+ctf07
+clip
+bluestuff8
+trigger
+c-blue
+metal2r8
+c-red
+c-white
+elapsed

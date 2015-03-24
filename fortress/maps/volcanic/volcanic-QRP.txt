@@ -1,0 +1,11 @@
+wswamp2_2
+#lava1
+sfloor4_6
+city2_2
+city2_6
+grave01_1
+metal1_3
+sfloor4_1
+city2_5
+light3_3
+rock1_2

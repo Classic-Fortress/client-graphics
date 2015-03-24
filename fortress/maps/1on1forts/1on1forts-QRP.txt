@@ -1,0 +1,17 @@
+city2_2
+lgmetal2
+#04awater1
+sfloor4_6
+city3_2
+wall14_5
+wizwood1_5
+mmetal1_2
+cop1_2
+city2_5
+wgrass1_1
+city6_8
+wbrick1_5
+wswamp2_1
+cop3_4
+sky4
+sfloor4_1

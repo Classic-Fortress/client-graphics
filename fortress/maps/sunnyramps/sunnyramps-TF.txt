@@ -1,0 +1,17 @@
+bluestuff8
+skip
+metplatb
+concflat
+ctf08
+c-blue
+c-white
+less_grass
+metdrust
+sky4r
+#water3
+orangestuff8
+metplatr
+ctf07
+c-red
+trigger
+elapsed

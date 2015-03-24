@@ -1,0 +1,15 @@
+city6_8
+azfloor1_1
+city2_1
+city8_2
+city4_6
+city6_7
+#lava1
+city2_7
+city2_8
+sky4
+wbrick1_5
+ground1_6
+column1_5
+#water2
+ecop1_6

@@ -1,0 +1,14 @@
+wall3_4
+metal5_1
+wbrick1_5
+grave03_1
+nmetal2_6
+wizmet1_7
+sky1
+ground1_1
+metal5_8
+metal1_3
+#04awater1
+#teleport
+dr01_2
+dr01_1

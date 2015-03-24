@@ -1,0 +1,16 @@
+ASHWALL3
+BROWNHUG
+#grb_tele
+ctf02
+sfloor2_1
+maya2_8
+#lava5
+Grass
+BROWNGRN
+clip
+cliff2_8
+BRICK12
+ctf01
+trigger
+plat_stem5
+elapsed

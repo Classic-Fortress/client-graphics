@@ -1,0 +1,13 @@
+rock1_2
+lgmetal2
+metal2_6
+mmetal1_6
+#04awater1
+mmetal1_8
+window01_1
+window01_2
+crate0_top
+crate1_side
+wgrass1_1
+adoor03_3
+mmetal1_3
