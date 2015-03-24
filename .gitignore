@@ -7,7 +7,7 @@
 /fortress/config.cfg
 /fortress/default.cfg
 /id1
-~/id1/*
+!/id1/*
 /id1/pak0.pak
 /qtv
 !/qtv/*
@@ -19,7 +19,7 @@
 /gnu.txt
 /cfortress
 /ezquake
-~/ezquake/*
+!/ezquake/*
 /ezquake/pak0.pak
 /ezquake/sb
 !/ezquake/sb/*
